@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'hello $Yonitube'
+echo 'hello $USER'
